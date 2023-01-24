@@ -1,0 +1,35 @@
+const emojipedia = [
+    {id :1,
+    emoji:"😀",
+    name:"grinning face",
+    description:"Genuine happiness, positivity, delight.",
+   },
+   {id :2,
+    emoji:"🤣",
+    name:"rolling on the floor laughing",
+    description:"Hysterical laughter.",
+   },
+   {id :3,
+    emoji:"😂",
+    name:"grinning face",
+    description:"I laughing but I’m also crying! Unsurprisingly, this was the most popular emoji of 2021.",
+   },
+   {id :4,
+    emoji:"🙂",
+    name:"grinning face",
+    description:"The equivalent of someone saying “oh, that’s so funny” with a completely straight face. Brutal.",
+   },
+   {id :5,
+    emoji:"😉",
+    name:"winking face",
+    description:"Flirtatious or “just kidding!”, depending on the context.",
+   },
+   {
+    id: 6,
+    emoji: "🙏",
+    name: "Person With Folded Hands",
+    meaning:
+      "Two hands pressed together. Is currently very introverted, saying a prayer, or hoping for enlightenment. Is also used as a “high five” or to say thank you."
+  },
+]
+ export default emojipedia;
